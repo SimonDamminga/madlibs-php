@@ -65,3 +65,14 @@ button:hover{
 #knopje:hover{
 	cursor: pointer;
 }
+#homepage h1{
+	text-align: center;
+}
+#text-align-homepage{
+	display: table-cell;
+	text-align: center;
+}
+#vragen-homepage{
+	background-color: white;
+	text-align: center;
+}
