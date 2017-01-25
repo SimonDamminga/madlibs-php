@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+}
+div{
+	display: table;
+	vertical-align: middle;
+	width: 100%;
+	height: 100px;
+	background-color: #9b0000;
+}
+#vragen{
+	background-color: white;
+}
+h1{
+	margin: 10px;
+	font-family: verdana;
+}
+#title{
+	font-size: 20px;
+}
+#text-align{
+	display: table-cell;
+}
+p{
+	font-family: verdana;
+	display: inline;
+	margin: 10px;
+	color: white;
+}
+.vrag{
+	display: block;
+	color: black;
+}
+#vraag{
+	background-color: white;
+	width: 30%;
+	min-width: 500px;
+}
+#answers{
+	width: 70%;
+	background-color: white;
+}
+input{
+	display: block;
+	margin-top: 9px;
+}
+#flex{
+	background-color: white;
+	display: flex;
+	flex-wrap: nowrap;
+}
+a{
+	margin-left: 10px;
+}
+button{
+	outline: none;
+	color: white;
+	background-color: transparent;
+	border: none;
+	font-size: 20px;
+}
+button:hover{
+	cursor: pointer;
+}
+#knopje:hover{
+	cursor: pointer;
+}
