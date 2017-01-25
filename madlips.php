@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="icon" href="madlipsicon.jpg" type="image/`jpg" sizes="128x128">
 	<link rel="stylesheet" type="text/css" href="index.css">
 	<title>Madlips</title>
 </head>
