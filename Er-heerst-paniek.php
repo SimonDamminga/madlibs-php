@@ -26,7 +26,7 @@
 					"Ja, da's leuk en aardig, maar hoe moet ik in de tussentijd <?php echo $_POST["8"]; ?> leren?"<br><br>
 					"maar Sire, daar kunt u toch uw <?php echo $_POST["7"]; ?> voor gebruiken."<br><br>
 					"<?php echo $_POST["2"]; ?>, je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had."<br><br>
-					"Mij vervelen, Sire."</p>
+					"<?php echo $_POST["4"]; ?>, Sire."</p>
 				</div>
 			</div>
 		</div>
